@@ -1,0 +1,42 @@
+depth: 0Root
+depth: 1--Main
+depth: 2----Compound statement.
+depth: 3------Def statement.
+depth: 4--------Var Declaration. a type: int
+depth: 5----------Literal 1
+depth: 4--------Var Declaration. b type: int
+depth: 5----------Literal 1
+depth: 3------Def statement.
+depth: 4--------Var Declaration. c type: int
+depth: 3------FOR
+depth: 4--------Var Declaration. i type: int
+depth: 5----------Literal 2
+depth: 4--------op:<
+depth: 5----------Var i
+depth: 5----------Literal 20
+depth: 4--------op:=
+depth: 5----------Var i
+depth: 5----------op:+
+depth: 6------------Var i
+depth: 6------------Literal 1
+depth: 4--------Compound statement.
+depth: 5----------Exp statement.
+depth: 6------------op:=
+depth: 7--------------Var c
+depth: 7--------------Var a
+depth: 5----------Exp statement.
+depth: 6------------op:=
+depth: 7--------------Var a
+depth: 7--------------op:+
+depth: 8----------------Var a
+depth: 8----------------Var b
+depth: 5----------Exp statement.
+depth: 6------------op:=
+depth: 7--------------Var b
+depth: 7--------------Var c
+depth: 3------Print statement.
+depth: 4--------Var a
+depth: 3------Print statement.
+depth: 4--------Var b
+depth: 3------Return statement.
+depth: 4--------Literal 0
